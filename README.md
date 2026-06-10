@@ -14,7 +14,7 @@ I am a Front-end Developer working with **JavaScript**, **TypeScript**, **Angula
 [<img src="https://img.shields.io/badge/My%20certificates-red?style=for-the-badge">](https://snitkon.github.io/certificates/)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/snitkon/) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snitkonikita@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snitkon/) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snitkonikita@gmail.com)
 
 
 ## 💻 Tech Stack:
