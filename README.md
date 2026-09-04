@@ -3,10 +3,10 @@
 # Mikita Snitko
 
 ## About Me
-I am a Front-end Developer working with **JavaScript**, **TypeScript**, **Angular** and **React.js** to build modern and user-friendly web applications. I also study and practice **Node.js** and **Express** to gain more full-stack development skills. I improve my technical and programming knowledge almost every day.🚀
+I am a Front-end Developer working with **JavaScript**, **TypeScript**, **Angular** and **React.js** to build modern and user-friendly web applications. I also study and practice **Node.js** and **Express** to gain more full-stack development skills. I improve my technical and programming skills almost every day.🚀
 
-* 🌍  I'm based in Bialystok, Poland.
-* 🤝  I'm open to collaborating on Interesting projects with fellow tech enthusiasts
+* 🌍  I'm based in Poland.
+* 🤝  I'm open to collaborating on interesting projects with fellow tech enthusiasts
 
 
 [<img src="https://img.shields.io/badge/My%20projects-blue?style=for-the-badge">](https://snitkon.github.io/)
